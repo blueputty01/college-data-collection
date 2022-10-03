@@ -1,9 +1,10 @@
 # University Data Scraping
-- Given a list of urls to Naviance profiles in a .txt file, program will download key information about the college.
-- Aid in college search
+- Given a list of urls to Naviance profiles in a .txt file, program will create a csv file outlining key information about the college.
+- Data helps in college application decisions
 
 ## Dependencies ⚙️
 Please have Node JS and Node Package Manager (NPM) installed: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+
 Run `npm install` in root of project to install dependencies 
 
 ## Usage guide 🤔
